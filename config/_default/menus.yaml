@@ -11,7 +11,7 @@ main:
     url: /#news
     weight: 20
   - name: Team
-    url: people
+    url: #/team
     weight: 30
   - name: Research
     url: event
@@ -23,5 +23,5 @@ main:
     url: /#apply
     weight: 60
   - name: Contact
-    url: contact
+    url: #/contact
     weight: 70
