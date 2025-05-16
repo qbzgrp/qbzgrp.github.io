@@ -8,7 +8,7 @@ main:
     url: /#home
     weight: 10
   - name: News
-    url: post
+    url: /#news
     weight: 20
   - name: Team
     url: people
@@ -17,10 +17,10 @@ main:
     url: event
     weight: 40
   - name: Publications
-    url: publication
+    url: https://www.google.com/
     weight: 50
   - name: Apply
-    url: apply
+    url: /#apply
     weight: 60
   - name: Contact
     url: contact
