@@ -6,10 +6,9 @@ type: landing
 
 sections:
   - block: hero
-    id: home
     content:
       title: |
-        Zhamg
+        Zhang
         Research Group
       image:
         filename: welcome.jpg
