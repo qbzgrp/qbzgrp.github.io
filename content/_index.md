@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        The **Zhang research Group** ...
+        The **Zhang research Group**
   
   - block: collection
     id: news

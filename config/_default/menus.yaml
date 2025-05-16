@@ -17,7 +17,7 @@ main:
     url: event
     weight: 40
   - name: Publications
-    url: https://www.google.com/
+    url: tour
     weight: 50
   - name: Apply
     url: /#apply
