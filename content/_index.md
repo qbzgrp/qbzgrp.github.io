@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        Our research group focuses on developing new capabilities for more accurate, more sensitive, and higher throughput measurement of biomolecules, and the clinical application of proteomics, lipidomics, and metabolomics for comprehensive identification of disease biomarkers, and for systems biological understanding of the pathogenic mechanism underlying the complex human diseases. 
+        Our research group focuses on developing new mass spectrometric capabilities for measurement of biomolecules and the clinical applications of proteomics, lipidomics, and metabolomics. We aim for identification of early disease biomarkers and systems biological understanding of the pathogenic mechanisms underlying human diseases. 
 
   
   - block: collection
