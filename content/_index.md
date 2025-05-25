@@ -63,7 +63,7 @@ sections:
       title: |
         Research Project 1
       image:
-        filename: welcome.jpg
+        filename: .jwelcomepg
       text: |
         <br>
         
