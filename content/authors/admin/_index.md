@@ -17,8 +17,8 @@ organizations:
   - name: University of North Carolina at Greensboro
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Analytical Biochemistry
@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Chemistry
       institution: University of California at Riverside
-      year: 1111
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

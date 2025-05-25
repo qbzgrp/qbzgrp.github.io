@@ -12,29 +12,29 @@ superuser: false
 # Role/position
 role: Research Associate
 
-# Organizations/Affiliations
-organizations:
-  - name: Sample University
-    url: ''
+# # Organizations/Affiliations
+# organizations:
+#   - name: Sample University
+#     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: Sample bio.
+# # Short bio (displayed in user profile at end of posts)
+# bio: Sample bio.
 
-interests:
-  - Sample interest 1
-  - Sample interest 2
-  - Sample interest 3
+# interests:
+#   - Sample interest 1
+#   - Sample interest 2
+#   - Sample interest 3
 
-education:
-  courses:
-    - course: Sample Degree
-      institution: Sample University
-      year: 1111
+#education:
+  #courses:
+    #- course: Sample Degree
+      #institution: Sample University
+      #year: 1111
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sample@example.com' # replace with email address
+    link: 'mailto:rasmith12@uncg.edu' # replace with email address
   - icon: google-scholar
     icon_pack: ai
     link: https://google.com # replace with google scholar link
