@@ -57,11 +57,28 @@ sections:
       show_role: true
       show_social: true
 
-  - block: markdown
+  - block: hero
     id: research
     content:
-      title: Research
-      text: asdfasdfa
+      title: |
+        Research Project 1
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+  - block: hero
+    content:
+      title: |
+        Research Project 2
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
   - block: markdown
     id: apply
