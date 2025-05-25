@@ -16,6 +16,8 @@ sections:
         
         Our research group focuses on developing new mass spectrometric capabilities for measurement of biomolecules and the clinical applications of proteomics, lipidomics, and metabolomics. We aim for identification of early disease biomarkers and systems biological understanding of the pathogenic mechanisms underlying human diseases. 
 
+        ![group photo](../assets/media/group_photo.jpg)
+
   
   - block: collection
     id: news
