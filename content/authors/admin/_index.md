@@ -12,27 +12,27 @@ superuser: true
 # Role/position
 role: Professor, Department of Chemistry & Biochemistry and Co-Director, UNCG Center for Translational Biomedical Research
 
-# Organizations/Affiliations
-organizations:
-  - name: University of North Carolina at Greensboro
-    url: ''
+# # Organizations/Affiliations
+# organizations:
+#   - name: University of North Carolina at Greensboro
+#     url: ''
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# # # Short bio (displayed in user profile at end of posts)
+# # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Analytical Biochemistry
-  - Biological Mass Spectrometry
-  - Proteomics
-  - Lipidomics
-  - Metabolomics
-  - Disease Biomarkers
+# interests:
+#   - Analytical Biochemistry
+#   - Biological Mass Spectrometry
+#   - Proteomics
+#   - Lipidomics
+#   - Metabolomics
+#   - Disease Biomarkers
 
-education:
-  courses:
-    - course: PhD in Chemistry
-      institution: University of California at Riverside
-      year: 2005
+# education:
+#   courses:
+#     - course: PhD in Chemistry
+#       institution: University of California at Riverside
+#       year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

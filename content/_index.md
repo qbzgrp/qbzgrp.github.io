@@ -84,7 +84,7 @@ sections:
     id: apply
     content:
       title: Apply
-      text: We always welcome talented researchers to join our lab! Graduate students who wish to pursue a PhD or MS degree in Chemistry, please submit your application through the Department of Chemistry & Biochemistry. If you are interested in joining us as a postdoctoral researcher or a research scientist, please contact Dr. Zhang, include a CV and a statement of your research interests and skills and how they align with our research projects.
+      text: We always welcome talented researchers to join our lab! Graduate students who wish to pursue a PhD or MS degree in Chemistry, please submit your application through the [graduate program](https://chem.uncg.edu/#academics) in the Department of Chemistry & Biochemistry of UNCG. If you are interested in joining us as a postdoctoral researcher or a research scientist, please contact Dr. Zhang, include a CV and a statement of your research interests and skills and how they align with our research projects.
 
   - block: contact
     id: contact
