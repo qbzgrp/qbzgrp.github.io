@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Sample Person
+title: Ashraf Alsagheer
 
 # Full Name (for SEO)
-first_name: John
-last_name: Doe
+first_name: Ashraf
+last_name: Alsagheer
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Sample Person
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:

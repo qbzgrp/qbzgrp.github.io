@@ -10,8 +10,7 @@ sections:
     content:
       title: |
         About Us
-      image:
-        filename: welcome.jpg
+      
       text: |
         <br>
         
