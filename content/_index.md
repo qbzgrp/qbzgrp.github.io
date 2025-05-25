@@ -90,7 +90,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Our research lab is at the UNCG Center for Translational Biomedical Research, located on the beautiful North Carolina Research Campus.
+        Our research lab is in the UNCG Center for Translational Biomedical Research, located on the beautiful North Carolina Research Campus in the thriving downtown Kannapolis, a suburb of Charlotte.
       email: q_zhang2@uncg.edu
       phone: 704-250-5803
       address:
