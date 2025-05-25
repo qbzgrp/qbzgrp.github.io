@@ -9,8 +9,7 @@ sections:
     id: home
     content:
       title: |
-        Zhang
-        Research Group
+        About Us
       text: |
         <br>
         
