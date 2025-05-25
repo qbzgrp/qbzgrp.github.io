@@ -47,6 +47,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Example # change the user group
+  - Researchers # change the user group
 ---
 
