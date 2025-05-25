@@ -77,7 +77,7 @@ sections:
       title: |
         Lipidomic method development
       image:
-        filename: welcome.jpg
+        filename: Glycation_2DLC.png
       text: |
         <br>
         
