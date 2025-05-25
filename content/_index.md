@@ -64,18 +64,38 @@ sections:
     id: research
     content:
       title: |
-        Research Project 1
+        Proteomic method development
+      image:
+        filename: Glycation_2DLC.png
+      text: |
+        <br>
+        
+        Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. In addition, This research area is contantly driven by unmet biomedical needs in measurement sensitivity, specificity and throughout. 
+
+  - block: hero
+    content:
+      title: |
+        Lipidomic method development
       image:
         filename: welcome.jpg
       text: |
         <br>
         
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-
   - block: hero
     content:
       title: |
-        Research Project 2
+        Early diagnosis of human diseases and mechanistic investigation
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+- block: hero
+    content:
+      title: |
+        Informatics
       image:
         filename: welcome.jpg
       text: |
