@@ -77,16 +77,16 @@ sections:
       title: |
         Lipidomic method development
       image:
-        filename: Glycation_2DLC.png
+        filename: lipids.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Lipids are structurally very diverse molecules. Different classes of lipids have different chemical properties, which makes their separation and identification from a complex biological sample very challenging.  We developed methods for comprehensive untargeted lipidomics, which include offline 2DLC separation coupled with high resolution mass spectrometry, novel ion chemistry OzNOxESI for determination of C=C unsaturation within lipids, and isobaric chemical labeling for more sensitive and multiplexed analysis of gangliosides. 
         
   - block: hero
     content:
       title: |
-        Early diagnosis of human diseases and mechanistic investigation
+        Human disease biomarkers and pathogenesis
       image:
         filename: welcome.jpg
       text: |
