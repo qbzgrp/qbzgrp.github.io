@@ -81,29 +81,29 @@ sections:
       text: |
         <br>
         
-        Lipids are structurally very diverse molecules. Different classes of lipids have different chemical properties, which makes their separation and identification from a complex biological sample very challenging.  We developed methods for comprehensive untargeted lipidomics, which include offline 2DLC separation coupled with high resolution mass spectrometry, novel ion chemistry OzNOxESI for determination of C=C unsaturation within lipids, and isobaric chemical labeling for more sensitive and multiplexed analysis of gangliosides. 
+        Lipids are structurally very diverse molecules. Different classes of lipids have different chemical properties, which makes their separation and identification from a complex biological sample very challenging.  We developed methods for comprehensive lipidomic analysis, which include offline 2DLC separation coupled with high resolution mass spectrometry, novel ion chemistry OzNOxESI for determination of C=C unsaturation within lipids, isobaric chemical labeling for more sensitive and multiplexed analysis of gangliosides, and very specific method for distinguishing isomeric oxylipins. 
         
   - block: hero
     content:
       title: |
-        Human disease biomarkers and pathogenesis
+        Human disease biomarkers and human performance assessment
       image:
-        filename: welcome.jpg
+        filename: mehari.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Reliable biomarkers are greatly needed in clinics for early diagnosis of human diseases and for assessment of human performance. Our lab is the first one reported the most comprehensive profiling of longitudinal plasma proteome changes during childhood development. Applying proteomics and lipidomics, we have identified panels of proteins that predict the onset of type 1 diabetes, established gangliosides as critical factors in hepatitus A virus entry into the host cells and assessed many functional foods in their effect on mitigating the inflammation induced by intensive exercise. This line of research is typically done collaboratively with renowned scientists and clinicians in diabetes, hepatitis, virology and sports medicine. 
 
   - block: hero
     content:
       title: |
         Informatics
       image:
-        filename: welcome.jpg
+        filename: software.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We developed tools for automated processing of isotopic labeling mass spectrometry data and of the novel OzNOxESI ion chemistry data. Developing niche software to facilitate mass spectrometric data processing and data visualization will be a continous focus area in our research.
 
   - block: markdown
     id: apply
