@@ -63,7 +63,7 @@ sections:
   - block: hero
     id: research
     content:
-      title: Research
+      title: |
         Proteomic method development
       image:
         filename: Glycation_2DLC.png
