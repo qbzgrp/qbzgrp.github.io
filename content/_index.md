@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Our research group focuses on developing new mass spectrometric capabilities for measurement of biomolecules and the clinical applications of proteomics, lipidomics, and metabolomics. We aim for identification of early disease biomarkers and systems biological understanding of the pathogenic mechanisms underlying human diseases. 
+        Our research group focuses on developing new mass spectrometric capabilities for measurement of biomolecules and the clinical applications of proteomics, lipidomics, and metabolomics. We aim for identification of early stage disease biomarkers and systems biological understanding of the pathogenic mechanisms underlying human diseases. 
 
         <p align="center"><img src="group_photo.jpg" height="600" width="800" </p>
 
@@ -70,7 +70,7 @@ sections:
       text: |
         <br>
 
-        Proteomic method development is driven by biomedical needs in measurement sensitivity, specificity and throughout. Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. We also developed laser capture microdissection-based methods for spatial proteomics to investigate the pathologies assoicated with specific cell types in a tissue. In addition, we developed streamlined method for highthroughout plasma protemics with improved proteome coverage, reproducibility and robustness. 
+        Analytical method development is driven by biomedical needs in measurement sensitivity, specificity and throughout. Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. We also developed laser capture microdissection-based methods for spatial proteomics to investigate the pathologies assoicated with specific cell types in a tissue. In addition, we developed a streamlined method for highthroughout plasma proteomics with improved proteome coverage, reproducibility and robustness. 
 
   - block: hero
     content:
@@ -81,7 +81,7 @@ sections:
       text: |
         <br>
         
-        Lipids are structurally very diverse molecules. Different classes of lipids have different chemical properties, which makes their separation and identification from a complex biological sample very challenging.  We developed methods for comprehensive lipidomic analysis, which include offline 2DLC separation coupled with high resolution mass spectrometry, novel ion chemistry OzNOxESI for determination of C=C unsaturation within lipids, isobaric chemical labeling for more sensitive and multiplexed analysis of gangliosides, and very specific method for distinguishing isomeric oxylipins. 
+        Lipids are structurally very diverse molecules. Different classes of lipids have different chemical properties, which makes their separation and identification from a complex biological sample very challenging.  We developed methods for comprehensive lipidomic analysis, which include offline 2DLC separation coupled with high resolution mass spectrometry, novel ion chemistry OzNOxESI for determination of C=C position within unsaturated lipids, isobaric chemical labeling for more sensitive and multiplexed analysis of gangliosides, and very specific method for distinguishing isomeric oxylipins. 
         
   - block: hero
     content:
@@ -92,7 +92,7 @@ sections:
       text: |
         <br>
         
-        Reliable biomarkers are greatly needed in clinics for early diagnosis of human diseases and for assessment of human performance. Our lab is the first one reported the most comprehensive profiling of longitudinal plasma proteome changes during childhood development. Applying proteomics and lipidomics, we have identified panels of proteins that predict the onset of type 1 diabetes, established gangliosides as critical factors in hepatitus A virus entry into the host cells and assessed many functional foods in their effect on mitigating the inflammation induced by intensive exercise. This line of research is typically done collaboratively with renowned scientists and clinicians in diabetes, hepatitis, virology and sports medicine. 
+        Reliable biomarkers are greatly needed in clinics for early diagnosis of human diseases and for assessment of human performance. Our lab is the first that reported the most comprehensive profiling of longitudinal changes in plasma proteome during childhood development. Applying proteomics and lipidomics, we have identified panels of proteins that predict the onset of type 1 diabetes, established gangliosides as a critical factor in hepatitus A virus entry into the host cells and assessed functional foods in their effect on mitigating the inflammation induced by intensive exercise. This line of research is typically done collaboratively with renowned scientists and clinicians in diabetes, hepatitis, virology and sports medicine. 
 
   - block: hero
     content:
@@ -103,13 +103,13 @@ sections:
       text: |
         <br>
         
-        We developed [software tools](https://github.com/QibinZhangLab) for automated processing of isotopic labeling mass spectrometry data and of the data generated by the novel OzNOxESI ion chemistry for C=C position analysis in lipids. Developing niche software to facilitate mass spectrometric data processing and data visualization will be a continous focus area in our research.
+        We developed [software tools](https://github.com/QibinZhangLab) for automated processing of isotopic labeling mass spectrometry data and of the data generated by the novel OzNOxESI ion chemistry for C=C position analysis in lipids. Developing niche software to facilitate mass spectrometric data processing and data visualization will be a continous focus area of our research.
 
   - block: markdown
     id: apply
     content:
       title: Apply
-      text: We always welcome talented researchers to join our lab! Graduate students who wish to pursue a PhD or MS degree in Chemistry, please submit your application through the [graduate program](https://chem.uncg.edu/#academics) in the Department of Chemistry & Biochemistry of UNCG. If you are interested in joining us as a postdoctoral researcher or a research scientist, please contact Dr. Zhang, include a CV and a statement of your research interests and skills and how they align with our research projects.
+      text: We always welcome talented researchers to join our lab! Graduate students who wish to pursue a PhD or MS degree in Chemistry, please submit your application through the [graduate programs](https://chem.uncg.edu/#academics) in the Department of Chemistry & Biochemistry of UNCG. If you are interested in joining us as a postdoctoral researcher or a research scientist, please contact Dr. Zhang, including a CV, a statement of your research interests and skills and how they align with our research projects.
 
   - block: contact
     id: contact
