@@ -67,7 +67,10 @@ sections:
         Proteomic method development
       image:
         filename: Glycation_2DLC.png
-      text: Proteomic method development is driven by biomedical needs in measurement sensitivity, specificity and throughout. Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. We also developed laser capture microdissection-based methods for spatial proteomics to investigate the pathologies assoicated with specific cell types in a tissue. In addition, we developed streamlined method for highthroughout plasma protemics with improved proteome coverage, reproducibility and robustness. 
+      text: |
+        <br>
+        
+        Proteomic method development is driven by biomedical needs in measurement sensitivity, specificity and throughout. Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. We also developed laser capture microdissection-based methods for spatial proteomics to investigate the pathologies assoicated with specific cell types in a tissue. In addition, we developed streamlined method for highthroughout plasma protemics with improved proteome coverage, reproducibility and robustness. 
 
   - block: hero
     content:
