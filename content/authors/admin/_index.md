@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: true
 
 # Role/position
-role: Professor, Department of Chemistry & Biochemistry and Co-Director, UNCG Center for Translational Biomedical Research
+role: Professor, Department of Chemistry & Biochemistry, UNC-Greensboro and Co-Director, UNCG Center for Translational Biomedical Research
 
 # # Organizations/Affiliations
 # organizations:
