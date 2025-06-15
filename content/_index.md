@@ -74,7 +74,7 @@ sections:
             </p>
           </div>
           <div style="float: left; width: 30%;">
-            <img src="/assets/media/Glycation_2DLC.png" alt="Research Image" style="width: 100%; border-radius: 8px;">
+            <img src="/static/uploads/Glycation_2DLC.png" alt="Research Image" style="width: 100%; border-radius: 8px;">
           </div>
         </div>
 
