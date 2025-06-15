@@ -67,14 +67,14 @@ sections:
       image:
         filename: 
       text: |-
-        <div style="overflow: auto;">
-          <div style="float: right; width: 65%;">
+        <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+          <div style="width: 65%; display: flex; align-items: center;">
             <p>
-              Analytical method development is driven by biomedical needs in measurement sensitivity, specificity and throughout. Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. We also developed laser capture microdissection-based methods for spatial proteomics to investigate the pathologies assoicated with specific cell types in a tissue. In addition, we developed a streamlined method for highthroughout plasma proteomics with improved proteome coverage, reproducibility and robustness. 
+              Analytical method development is driven by biomedical needs in measurement sensitivity, specificity and throughout. Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. We also developed laser capture microdissection-based methods for spatial proteomics to investigate the pathologies assoicated with specific cell types in a tissue. In addition, we developed a streamlined method for highthroughout plasma proteomics with improved proteome coverage, reproducibility and robustness.
             </p>
           </div>
-          <div style="float: left; width: 30%;">
-            <img src="/uploads/Glycation_2DLC.png" alt="proteomics" style="width: 100%; border-radius: 8px;">
+          <div style="width: 30%; display: flex; align-items: center;">
+            <img src="/uploads/Glycation_2DLC.png" alt="glycation image" style="width: 100%; border-radius: 8px;">
           </div>
         </div>
 
