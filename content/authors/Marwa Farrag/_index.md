@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Ryan Smith
+title: Marwa Farrag
 
 # Full Name (for SEO)
-first_name: Ryan
-last_name: Smith
+first_name: Marwa
+last_name: Farrag
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Postdoctoral Research Associate
 
-# # Organizations/Affiliations
-# organizations:
-#   - name: Sample University
-#     url: ''
+# Organizations/Affiliations
+#organizations:
+  #- name: Sample University
+    #url: ''
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: Sample bio.
+# Short bio (displayed in user profile at end of posts)
+#bio: Sample bio.
 
-# interests:
-#   - Sample interest 1
-#   - Sample interest 2
-#   - Sample interest 3
+#interests:
+  #- Sample interest 1
+  #- Sample interest 2
+  #- Sample interest 3
 
 #education:
   #courses:
@@ -34,7 +34,7 @@ role: Research Associate
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:rasmith12@uncg.edu' # replace with email address
+    link: 'mailto:mmfarrag@uncg.edu' # replace with email address
   - icon: google-scholar
     icon_pack: ai
     link: https://google.com # replace with google scholar link
