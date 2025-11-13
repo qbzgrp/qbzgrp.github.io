@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: publications
     weight: 50
-  - name: Apply
+  - name: Join Us
     url: /#apply
     weight: 60
   - name: Contact
