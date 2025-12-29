@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ashraf Alsagheer
+title: Vivek Sarohi
 
 # Full Name (for SEO)
-first_name: Ashraf
-last_name: Alsagheer
+first_name: Vivek
+last_name: Sarohi
 
 # Is this the primary user of the site?
 superuser: false
@@ -34,7 +34,7 @@ role: Postdoctoral Research Associate
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:amalsagheer@uncg.edu' # replace with email address
+    link: 'mailto:v_sarohi@uncg.edu' # replace with email address
   - icon: google-scholar
     icon_pack: ai
     link: https://google.com # replace with google scholar link
