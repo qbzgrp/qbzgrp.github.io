@@ -57,14 +57,6 @@ Ashraf Omar Alsagheer. Research area: lipidomics.  First-author of: 10.3390/meta
      # institution: Sample University
      # year: 1111
 
-social:
-  - #icon: envelope
-    #icon_pack: fas
-    #link: 'mailto:xxx@uncg.edu' # replace with email address
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://google.com # replace with google scholar link
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '' # don't touch this
 
