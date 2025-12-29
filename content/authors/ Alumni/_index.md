@@ -20,7 +20,7 @@ superuser: false
    # url: ''
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Sample bio.
+bio: Sample bio.
 
 Chih-Wei Liu. Research area: proteomics. First-author of: 10.1002/pmic.201500333; 10.1016/j.jprot.2016.11.016; 10.1016/j.jprot.2017.10.004; 10.1007/7651_2017_77. Co-author of: 10.1021/acs.analchem.7b03342.
 Monica Narvaez-Rivas. Research area: lipidomics. First-author of: 10.1016/j.chroma.2016.02.054; 10.1016/j.aca.2016.12.003. Co-author of: 10.1007/s00216-019-01997-7.
