@@ -9,6 +9,19 @@ title:
 # Is this the primary user of the site?
 superuser: false
 
+
+
+# Role/position
+#role: Postdoctoral Research Associate
+
+# Organizations/Affiliations
+#organizations:
+  #- name: Sample University
+   # url: ''
+
+# Short bio (displayed in user profile at end of posts)
+#bio: Sample bio.
+
 Chih-Wei Liu. Research area: proteomics. First-author of: 10.1002/pmic.201500333; 10.1016/j.jprot.2016.11.016; 10.1016/j.jprot.2017.10.004; 10.1007/7651_2017_77. Co-author of: 10.1021/acs.analchem.7b03342.
 Monica Narvaez-Rivas. Research area: lipidomics. First-author of: 10.1016/j.chroma.2016.02.054; 10.1016/j.aca.2016.12.003. Co-author of: 10.1007/s00216-019-01997-7.
 Lina Zhang. Research area: proteomics. First-author of: 10.1016/j.jprot.2016.09.002; 10.1021/acs.analchem.7b03342; 10.1007/978-1-4939-8814-3_16; 10.1002/prca.201900104.
@@ -32,17 +45,6 @@ Joseph Cramer. Undergrad Researcher. Developer of lipid lens.
 Ryan Smith. Thesis: LC-MS Analysis of Gangliosides: Methods Development and Software Solutions. First-author of: 10.1093/bioadv/vbad044; 10.1007/s00216-023-04995-y; 10.1021/acs.analchem.4c05940.
 Rohit Kamble. Research area: organic synthesis.
 Ashraf Omar Alsagheer. Research area: lipidomics.  First-author of: 10.3390/metabo13091002. Co-First-author of: 10.1021/acs.analchem.4c05940. Co-author of: 10.3389/fnut.2022.1042719; 10.1038/s41598-023-39269-1; 10.3389/fnut.2023.1143385; 10.3389/fnut.2024.1408804; 10.3390/nu16193250; 10.3390/nu16010036; 10.1021/acsomega.4c07459; 10.1016/j.jshs.2025.101039.
-
-# Role/position
-#role: Postdoctoral Research Associate
-
-# Organizations/Affiliations
-#organizations:
-  #- name: Sample University
-   # url: ''
-
-# Short bio (displayed in user profile at end of posts)
-#bio: Sample bio.
 
 #interests:
   #- Sample interest 1
