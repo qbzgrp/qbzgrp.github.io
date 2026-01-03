@@ -66,7 +66,7 @@ Arvind Korwar. Research area: proteomics. First-author of: 10.1021/jasms.0c00443
 
 Madeline Schoenfeld. Research Intern. Co-author of: 10.1021/acs.jproteome.2c00311.
 
-Thierry Iraguha. Lab Assistant. Co-author of: 10.1021/acs.jproteome.2c00311.
+Thierry Iraguha. Research Technician. Co-author of: 10.1021/acs.jproteome.2c00311.
 
 Vanessa Rubio. Research area: metabolomics.
 
