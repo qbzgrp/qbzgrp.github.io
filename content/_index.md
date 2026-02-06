@@ -68,7 +68,7 @@ sections:
         <div style="display: flex; justify-content: space-between; margin-top: 20px;">
           <div style="width: 65%; display: flex; align-items: center;">
             <p>
-              Analytical method development is driven by biomedical needs in measurement sensitivity, specificity and throughout. Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. We also developed laser capture microdissection-based methods for spatial proteomics to investigate the pathologies assoicated with specific cell types in a tissue. In addition, we developed a streamlined method for highthroughout plasma proteomics with improved proteome coverage, reproducibility and robustness.
+              Analytical method development is driven by biomedical needs in measurement sensitivity, specificity and throughout. Many post-translational modifications to proteins are low abundant, accurate analysis of protein PTM requires specific enrichment methods. We developed online boronic affinity enrichment method for 2DLC-MS/MS analysis of glycated proteins, which has been used in identification of biomarkers to glycemic control and diabetic complications. We also developed laser capture microdissection-based methods for spatial proteomics to investigate the pathologies assoicated with specific cell types in a tissue. In addition, we developed highthroughout workflows for proteomic analysis of plasma and dried blood spot samples with improved proteome coverage, reproducibility and robustness. Continous method development is focused on proteomics for organelles, extracellular vesicles, and protein post-translational modifications.
             </p>
           </div>
           <div style="width: 30%; display: flex; align-items: center;">
@@ -86,23 +86,38 @@ sections:
           </div>
           <div style="width: 65%; display: flex; align-items: center;">
             <p>
-              Lipids are structurally very diverse molecules. Different classes of lipids have different chemical properties, which makes their separation and identification from a complex biological sample very challenging.  We developed methods for comprehensive lipidomic analysis, which include offline 2DLC separation coupled with high resolution mass spectrometry, novel ion chemistry OzNOxESI for determination of C=C position within unsaturated lipids, isobaric chemical labeling for more sensitive and multiplexed analysis of gangliosides, and very specific method for distinguishing isomeric oxylipins. 
+              Lipids are structurally very diverse molecules. Different classes of lipids have different chemical properties, which makes their separation and identification from a complex biological sample very challenging.  We developed methods for comprehensive lipidomic analysis, which include offline 2DLC separation coupled with high resolution mass spectrometry, novel ion chemistry OzNOxESI for determination of C=C position within unsaturated lipids, isobaric chemical labeling for more sensitive and multiplexed analysis of gangliosides, and very specific method for distinguishing isomeric oxylipins. Continued method development is focused on absolute quantification of lipids, lipidomics of tissue sections and extracellular vesicles, and modified lipids. 
             </p>
           </div>
         </div>
 
   - block: markdown
     content:
-      title: Human disease biomarkers and human performance assessment
+      title: Biomarkers and pathogenic mechanisms for human diseases
       text: |-
         <div style="display: flex; justify-content: space-between; margin-top: 20px;">
           <div style="width: 65%; display: flex; align-items: center;">
             <p>
-              Reliable biomarkers are greatly needed in clinics for early diagnosis of human diseases and for assessment of human performance. Our lab is the first that reported the most comprehensive profiling of longitudinal changes in plasma proteome during childhood development. Applying proteomics and lipidomics, we have identified panels of proteins that predict the onset of type 1 diabetes, established gangliosides as a critical factor in hepatitus A virus entry into the host cells and assessed functional foods in their effect on mitigating the inflammation induced by intensive exercise. This line of research is typically done collaboratively with renowned scientists and clinicians in diabetes, hepatitis, virology and sports medicine. 
+              Reliable biomarkers are greatly needed in clinics for early diagnosis of human diseases. Our lab is the first that reported the most comprehensive profiling of longitudinal changes in plasma proteome during childhood development. Applying proteomics and lipidomics, we have identified panels of proteins that predict the onset of type 1 diabetes, diabetic complications and established gangliosides as a critical factor in hepatitus A virus entry into the host cells. Current research is focused on immunopeptides as neoantigens in type 1 diabetes, markers and mechanisms for tissue-specific diabetic complications and alcoholic heart diseases.
             </p>
           </div>
           <div style="width: 30%; display: flex; align-items: center;">
             <img src="/uploads/mehari.jpg" alt="research image" style="width: 100%; border-radius: 8px;">
+          </div>
+        </div>
+
+- block: markdown
+    content:
+      title: Molecular assessment of human performance
+      text: |-
+        <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+          <div style="width: 65%; display: flex; align-items: center;">
+            <p>
+              We developed novel omics marker panels for assessment of the immunity and inflammatory status. Through close collaboration with the Human Performance Lab of the Applacchian State University, we assessed the effect of consumption of various functional foods on boosting immunity and resolving inflammation induced by intensive exercises. Currently we are working with the Naval Health Research Center in evaluating the nutritional interventions to militrary training. 
+            </p>
+          </div>
+          <div style="width: 30%; display: flex; align-items: center;">
+            <img src="/uploads/Human performance.png" alt="research image" style="width: 100%; border-radius: 8px;">
           </div>
         </div>
 
