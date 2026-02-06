@@ -106,7 +106,7 @@ sections:
           </div>
         </div>
 
-- block: markdown
+  - block: markdown
     content:
       title: Molecular assessment of human performance
       text: |-
