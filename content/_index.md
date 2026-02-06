@@ -117,7 +117,7 @@ sections:
             </p>
           </div>
           <div style="width: 30%; display: flex; align-items: center;">
-            <img src="/uploads/Human performance.png" alt="research image" style="width: 100%; border-radius: 8px;">
+            <img src="/uploads/mehari.jpg" alt="research image" style="width: 100%; border-radius: 8px;">
           </div>
         </div>
 
@@ -169,3 +169,6 @@ sections:
     design:
       columns: '1'
 ---
+
+
+[def]: uploads/Human performance.pn
