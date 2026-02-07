@@ -112,14 +112,13 @@ sections:
       text: |-
         <div style="display: flex; justify-content: space-between; margin-top: 20px;">
           <div style="width: 65%; display: flex; align-items: center;">
-            <div style="width: 30%; display: flex; align-items: center;">
-              <img src="/uploads/Human performance.png" alt="research image" style="width: 100%; border-radius: 8px;">
-          </div>
             <p>
               We developed novel omics marker panels for assessment of the immunity and inflammatory status. Through close collaboration with the Human Performance Lab of the Applacchian State University, we assessed the effect of consumption of various functional foods on boosting immunity and resolving inflammation induced by intensive exercises. Currently we are working with the Naval Health Research Center to evaluate the nutritional interventions to militrary training. 
             </p>
           </div>
-          
+          <div style="width: 30%; display: flex; align-items: center;">
+              <img src="/uploads/Human performance.png" alt="research image" style="width: 100%; border-radius: 8px;">
+          </div> 
         </div>
 
   - block: markdown
