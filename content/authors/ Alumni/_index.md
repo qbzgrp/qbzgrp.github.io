@@ -89,3 +89,5 @@ Ryan Smith. Thesis: LC-MS Analysis of Gangliosides: Methods Development and Soft
 Rohit Kamble. Research area: organic synthesis.
 
 Ashraf Omar Alsagheer. Research area: lipidomics.  First-author of: 10.3390/metabo13091002. Co-First-author of: 10.1021/acs.analchem.4c05940. Co-author of: 10.3389/fnut.2022.1042719; 10.1038/s41598-023-39269-1; 10.3389/fnut.2023.1143385; 10.3389/fnut.2024.1408804; 10.3390/nu16193250; 10.3390/nu16010036; 10.1021/acsomega.4c07459; 10.1016/j.jshs.2025.101039.
+
+Shivprasad Patil. Research area: proteomics, EVs. First author of: 10.1186/s12014-026-09590-8; 10.1021/acs.jproteome.5c00149; 10.1021/acs.jproteome.4c00037. Co-author of: 10.1038/s44298-025-00150-9; 10.3389/fnut.2024.1408804.
