@@ -7,3 +7,23 @@
 .cta-group {
   justify-content: center;
 }
+
+/* Turn news cards into a horizontal row (Image left, text right) */
+#news {
+  .card {
+    display: flex;
+    flex-direction: row; /* Aligns items horizontally */
+  }
+
+  /* Adjust the image container width */
+  .card-image, .card-img-top {
+    flex: 0 0 35%; /* Adjust width percentage for the image side */
+    max-width: 35%;
+    object-fit: cover;
+  }
+
+  /* Adjust the text body container width */
+  .card-body {
+    flex: 1;
+  }
+}
