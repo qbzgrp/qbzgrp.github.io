@@ -38,7 +38,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '2'
+      columns: '1'
       fill_image: true
 
   - block: people
