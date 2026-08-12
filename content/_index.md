@@ -37,8 +37,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: list-view
-      columns: '1'
+      view: card
+      columns: '2'
 
   - block: people
     id: people
