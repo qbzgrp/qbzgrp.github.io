@@ -39,6 +39,7 @@ sections:
     design:
       view: card
       columns: '2'
+      fill_image: true
 
   - block: people
     id: people
