@@ -39,6 +39,7 @@ sections:
     design:
       view: masonry
       columns: '1'
+      show_date: true
 
   - block: people
     id: people
