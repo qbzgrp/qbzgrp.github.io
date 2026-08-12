@@ -10,9 +10,7 @@
 
 /* Target the news block with card-simple view */
 #news {
-  .card-simple.view-card {
-    .img-hover-zoom {
-      max-height: 500px;
-    }
+  .article-banner {
+      height: 500px;
   }
 }
