@@ -8,12 +8,10 @@
   justify-content: center;
 }
 
-#news {
-  .article-banner {
-    max-height: 400px;
-  }
-  img {
-    max-height: 400px;
-    width: auto;
-  }
+#news .card-simple img, 
+#news .view-card img {
+  object-fit: contain !important;
+  width: 100%;
+  height: auto;
+  max-height: 300px; /* Adjust this height limit if needed */
 }
