@@ -8,19 +8,10 @@
   justify-content: center;
 }
 
-/* Target the news block with card-simple view */
 #news {
   .article-banner {
-      /* If you want the container itself to stay responsive or fit the image: */
-      height: auto; 
-      max-height: 500px;
-      overflow: hidden; /* Ensures nothing overflows if the image exceeds bounds */
-
-      img {
-          max-height: 500px;
-          width: auto;
-          height: auto;
-          object-fit: contain; /* Optional: ensures the whole image fits nicely */
-      }
+      max-height: 400px;
+      width: auto;
+      object-fit: contain;
   }
 }
