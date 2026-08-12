@@ -8,10 +8,35 @@
   justify-content: center;
 }
 
+/* Target the news block collection cards */
+#news .card-simple, 
+#news .view-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers the card contents horizontally */
+  text-align: center;
+}
+
+/* Fix the image container and centering */
+#news .card-simple .card-image,
+#news .view-card .card-image,
+#news .card-simple .img-responsive, 
+#news .view-card img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto !important;
+  float: none !important;
+  width: 100%;
+}
+
+/* Ensure the actual image element fits entirely and centers */
 #news .card-simple img, 
 #news .view-card img {
   object-fit: contain !important;
-  width: 100%;
-  height: auto;
-  max-height: 300px; /* Adjust this height limit if needed */
+  object-position: center !important;
+  max-height: 300px; /* Adjust height limit to preference */
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
