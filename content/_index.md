@@ -37,7 +37,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: list
+      view: showcase
       columns: '1'
 
   - block: people
