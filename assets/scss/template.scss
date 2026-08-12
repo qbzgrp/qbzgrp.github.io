@@ -10,8 +10,10 @@
 
 #news {
   .article-banner {
-      max-height: 400px;
-      width: auto;
-      object-fit: contain;
+    max-height: 400px;
+  }
+  img {
+    max-height: 400px;
+    width: auto;
   }
 }
