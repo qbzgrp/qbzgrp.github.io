@@ -40,6 +40,7 @@ sections:
       view: card
       columns: '1'
       fill_image: true
+      aspect_ratio: 'portrait'
 
   - block: people
     id: people
