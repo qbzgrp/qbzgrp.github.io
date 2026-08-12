@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Fayaj Mulani
+title: Jaya Paudel
 
 # Full Name (for SEO)
-first_name: Fayaj
-last_name: Mulani
+first_name: Jaya
+last_name: Paudel
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations
 #organizations:
   #- name: Sample University
-   # url: ''
+    #url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: Sample bio.
@@ -28,11 +28,11 @@ role: Postdoctoral Research Associate
 #education:
   #courses:
     #- course: Sample Degree
-     # institution: Sample University
-     # year: 1111
+      #institution: Sample University
+      #year: 1111
 
 social:
-
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '' # don't touch this

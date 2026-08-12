@@ -32,12 +32,7 @@ role: Postdoctoral Research Associate
       #year: 1111
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:mmfarrag@uncg.edu' # replace with email address
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://google.com # replace with google scholar link
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '' # don't touch this
