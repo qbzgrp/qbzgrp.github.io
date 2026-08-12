@@ -37,7 +37,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: article-grid
+      view: list-view
       columns: '1'
 
   - block: people
