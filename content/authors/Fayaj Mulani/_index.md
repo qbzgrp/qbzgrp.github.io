@@ -31,7 +31,7 @@ role: Postdoctoral Research Associate
      # institution: Sample University
      # year: 1111
 
-social:
+#social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
