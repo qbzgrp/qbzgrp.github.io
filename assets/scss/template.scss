@@ -8,22 +8,30 @@
   justify-content: center;
 }
 
-/* Turn news cards into a horizontal row (Image left, text right) */
+/* Target the news block with card-simple view */
 #news {
-  .card {
+  .card-simple.view-card {
     display: flex;
-    flex-direction: row; /* Aligns items horizontally */
-  }
+    flex-direction: row; /* Flips the card items side-by-side */
+    align-items: stretch;
 
-  /* Adjust the image container width */
-  .card-image, .card-img-top {
-    flex: 0 0 35%; /* Adjust width percentage for the image side */
-    max-width: 35%;
-    object-fit: cover;
-  }
+    /* Left side: Make the image container take up a fixed width (e.g., 35%) */
+    .img-hover-zoom {
+      flex: 0 0 35%;
+      max-width: 35%;
+      
+      img {
+        height: 100%;
+        object-fit: cover; /* Ensures the image fills the side block cleanly */
+      }
+    }
 
-  /* Adjust the text body container width */
-  .card-body {
-    flex: 1;
+    /* Right side: Make the text description area take up the rest of the space */
+    .article-style {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
   }
 }
